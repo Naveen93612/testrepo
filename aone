@@ -1,0 +1,6 @@
+#!/bin/bash
+#create directory
+for i in {1..15}
+do 
+	touch $i
+done
